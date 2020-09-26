@@ -1,0 +1,25 @@
+title:              George-Sand Écologie
+email:              lyc.sand.club.informatique@gmail.com
+description:        Nous partageons notre idéologie pour conserver notre écosystème et les êtres vivants qui l'entourent.
+author:             Club d'informatique au Lycée Georges Sand
+baseurl:            ""
+url:                ""
+
+# Social Profiles
+twitter_username:   LyceeSandDomont
+github_username:    lyc-sand
+facebook_username:
+instagram_username: lyc_georgesand
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:    # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
