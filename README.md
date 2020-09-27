@@ -4,7 +4,7 @@
 </a>
 </div><br>
 
-# Lycée éco-responsable
+# Lycée éco-responsable [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Flyc-sand.github.io%2Feco&text=L'%C3%89co-Blog%20%7C%20Nous%20partageons%20notre%20id%C3%A9ologie%20pour%20conserver%20notre%20plan%C3%A8te%20et%20les%20%C3%AAtres%20vivants%20qui%20l'entourent.%20-%20Par%20le%20club%20d'informatique%20du%20Lyc%C3%A9e%20George-Sand)
 Nous partageons notre idéologie pour conserver notre planète et les êtres vivants qui l'entourent.
 
 ## BIODIVERSITÉ : l’objectif est de favoriser la biodiversité et de faciliter son observation
