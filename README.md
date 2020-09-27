@@ -1,7 +1,5 @@
 <div align="center">
-  
-[![Eco Logo](https://www.lyc-sand-domont.fr/wp-content/uploads/2020/06/e3d_slider-4-750x410.jpg =100x20)](https://lyc-sand.github.io/eco)
-
+<img src="https://www.lyc-sand-domont.fr/wp-content/uploads/2020/06/e3d_slider-4-750x410.jpg" style="max-width: 20%!important;">
 </div><br>
 
 # Lycée éco-responsable
