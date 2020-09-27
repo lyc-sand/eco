@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.lyc-sand-domont.fr/wp-content/uploads/2020/06/e3d_slider-4-750x410.jpg" width="500px" height="500px">
+<img src="https://www.lyc-sand-domont.fr/wp-content/uploads/2020/06/e3d_slider-4-750x410.jpg" width="200px" height="100px">
 </div><br>
 
 # Lycée éco-responsable
