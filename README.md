@@ -1,5 +1,7 @@
 <div align="center">
+  
 [![Eco Logo](https://www.lyc-sand-domont.fr/wp-content/uploads/2020/06/e3d_slider-4-750x410.jpg "Eco Lycée George Sand")](https://lyc-sand.github.io/eco)
+
 </div><br>
 # Lycée éco-responsable
 Nous partageons notre idéologie pour conserver notre planète et les êtres vivants qui l'entourent.
